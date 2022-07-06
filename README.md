@@ -18,4 +18,4 @@ If you quit VSCode and want to continue working on the notebooks, just restart V
 
 ### Updating the Repository
 
-From time to time, new examples and code will be added to the repository.
+From time to time, new examples and code will be added to the repository. You can update your local version of the repository by, in VSCode, doing Cmd-Shift-P to bring up the command pallette and choosing `Git: Pull` (type in the first few letters to get it to appear). Note that there are other `Pull` VSCode commands. Be sure to choose this one. 
