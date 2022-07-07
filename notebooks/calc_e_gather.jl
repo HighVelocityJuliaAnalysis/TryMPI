@@ -1,6 +1,7 @@
 # calc_e_gather.jl
 #
-# This program simply displays the rank number
+# This program calculates e using MPI.Gather and sum
+
 using MPI
 MPI.Init()  # Every MPI program has to have this to initialize MPI
 
